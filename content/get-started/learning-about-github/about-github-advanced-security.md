@@ -14,7 +14,7 @@ redirect_from:
 shortTitle: GitHub Advanced Security
 ---
 
-## About {% data variables.product.prodname_GH_advanced_security %}
+## About {% data variables.product.prodname_GH_advanced_security %}engin
 
 {% data variables.product.prodname_dotcom %} has many features that help you improve and maintain the quality of your code. Some of these are included in all plans, such as dependency graph and {% data variables.product.prodname_dependabot_alerts %}. Other security features require a {% data variables.product.prodname_GH_advanced_security %} (GHAS){% ifversion fpt or ghec %} license to run on repositories apart from public repositories on {% data variables.product.prodname_dotcom_the_website %}{% endif %}.
 
